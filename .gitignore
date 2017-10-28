@@ -1,0 +1,11 @@
+# configuration
+conf/app.conf
+routers/commentsRouter_controllers.go
+
+# build file
+lastupdate.tmp
+beego-api-starter
+
+# dependency management
+vendor
+Gopkg.lock
